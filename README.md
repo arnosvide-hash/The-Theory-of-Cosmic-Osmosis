@@ -14,4 +14,4 @@ The model provides a fundamental explanation for some of the greatest mysteries 
 
 The full theoretical document, including the detailed mathematical formalism, derivations, and a comprehensive list of predictions, is available for download as a PDF.
 
-[Download the Full Theory Document (PDF)](https://github.com/tu-usuario/Teoria_Cosmic_Osmosis/raw/main/Cosmic_Osmosis_Theory.pdf)
+[Download the Full Theory Document (PDF)](https://github.com/arnosvide-hash/The-Theory-of-Cosmic-Osmosis/blob/dbdf8bc4e486960bec65112ff8cb05714f10647c/theory_of_cosmic_osmosis_v2.pdf)
